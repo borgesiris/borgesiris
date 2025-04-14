@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Análise e Desenvolvimento d
 
 - 🎓 *Formação:* Cursando Análise e Desenvolvimento de Sistemas pela Universidade Anhanguera;
 - 🌱 *Atualmente Aprendendo:* React, Python, C++ ;
-- 🤝 *Buscando Colaborar:* Busco colaborar em rojetos de desenvolvimento web e/ou em análise e modelagem de dados;
+- 🤝 *Buscando Colaborar:* Busco colaborar em projetos de desenvolvimento web e/ou em análise e modelagem de dados;
 - 📫 *Como me Contatar:*  bborgesiris@gmail.com | [LinkedIn](https://www.linkedin.com/in/iris-borges-0049b0260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
